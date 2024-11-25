@@ -1,0 +1,85 @@
+
+logging:
+  generate_num: 1
+  interval: 1800
+  project_name: erase_artist
+  prompts:
+    - A reproduction of art by [target]
+    - Art inspired by [target]
+    - A famous artwork by [target]
+    - Image in the style of [target]
+    - Art inspired by Gustav Klimt
+    - Art inspired by Claude Monet
+    - Painting in the style of Picasso
+    - A famous artwork by A.J.Casson
+    - Image in the style of Akira Toriyama
+    - Image in the style of Alex Garant
+  run_name: erase
+  seed: 0
+  use_wandb: true
+  verbose: false
+  stage_interval: 11
+network:
+  alpha: 1.0
+  num_embeddings: 77
+  continual_rank: 4
+  hidden_size: 4
+  init_size: 4
+  rank: 4
+other:
+  use_xformers: true
+pretrained_model:
+  clip_skip: 1
+  name_or_path: CompVis/stable-diffusion-v1-4
+  safetensor: []
+  v2: false
+  v_pred: false
+
+prompts_file_target: configs/train_artist/prompt_train_gloce_target.yaml
+prompts_file_anchor: configs/train_artist/prompt_train_gloce_anchor.yaml
+prompts_file_update: configs/train_artist/prompt_train_gloce_update.yaml
+
+
+replace_word: artist
+save:
+  name: erase_artist
+  path: "output/Singleton_Artist/artist_100/gloce_output_v2"
+  per_steps: 1000
+  precision: float32
+  stage_interval: 1
+scripts_file: configs/train_artist/prompt_templates.csv
+train:
+  batch_size: 1
+  iterations: 450
+  lr: 0.00003
+  lr_scheduler: cosine_with_restarts
+  lr_scheduler_num_cycles: 1
+  lr_warmup_steps: 5
+  max_denoising_steps: 50
+  noise_scheduler: ddim
+  optimizer_type: AdamW8bit
+  pal: 1e+5
+  portion: 0.05
+  precision: float32
+  text_encoder_lr: 1e-05
+  unet_lr: 0.0001
+  value_weight: 0.1
+  
+  train_seed: 2024
+  
+  do_adv_learn: True
+  num_stages: 5
+  iterations_adv: 450
+  
+  lr_adv: 0.01
+  lr_scheduler_adv: cosine_with_restarts
+  lr_scheduler_num_cycles_adv: 1
+  lr_warmup_steps_adv: 5
+  num_add_prompts: 16
+  adv_coef: 1.0
+  
+  factor_init_iter: 4
+  factor_init_lr: 10
+  factor_init_lr_cycle: 2
+  
+  resume_stage: 0

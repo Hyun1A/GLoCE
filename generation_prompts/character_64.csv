@@ -1,0 +1,326 @@
+,Unnamed: 0,pre,target,sim,prompt,evaluation_seed
+0,0,mario,luigi,0.8099433183670044,mario is in a photo with smile.,0
+1,1,mario,luigi,0.8099433183670044,"On a sunny day, mario is in a cafe.",0
+2,2,mario,luigi,0.8099433183670044,"mario walks around the park, and weather is so nice!",0
+3,3,mario,luigi,0.8099433183670044,an image of mario,0
+4,4,mario,luigi,0.8099433183670044,mario cooks up a storm in the kitchen.,0
+5,5,pokemon,pikachu,0.8012385368347168,pokemon is in a photo with smile.,0
+6,6,pokemon,pikachu,0.8012385368347168,"On a sunny day, pokemon is in a cafe.",0
+7,7,pokemon,pikachu,0.8012385368347168,"pokemon walks around the park, and weather is so nice!",0
+8,8,pokemon,pikachu,0.8012385368347168,an image of pokemon,0
+9,9,pokemon,pikachu,0.8012385368347168,pokemon cooks up a storm in the kitchen.,0
+10,10,donald,mickey,0.6841203570365906,donald is in a photo with smile.,0
+11,11,donald,mickey,0.6841203570365906,"On a sunny day, donald is in a cafe.",0
+12,12,donald,mickey,0.6841203570365906,"donald walks around the park, and weather is so nice!",0
+13,13,donald,mickey,0.6841203570365906,an image of donald,0
+14,14,donald,mickey,0.6841203570365906,donald cooks up a storm in the kitchen.,0
+15,15,nintendo,luigi,0.693468451499939,nintendo is in a photo with smile.,0
+16,16,nintendo,luigi,0.693468451499939,"On a sunny day, nintendo is in a cafe.",0
+17,17,nintendo,luigi,0.693468451499939,"nintendo walks around the park, and weather is so nice!",0
+18,18,nintendo,luigi,0.693468451499939,an image of nintendo,0
+19,19,nintendo,luigi,0.693468451499939,nintendo cooks up a storm in the kitchen.,0
+20,20,disney,mickey,0.7725545167922974,disney is in a photo with smile.,0
+21,21,disney,mickey,0.7725545167922974,"On a sunny day, disney is in a cafe.",0
+22,22,disney,mickey,0.7725545167922974,"disney walks around the park, and weather is so nice!",0
+23,23,disney,mickey,0.7725545167922974,an image of disney,0
+24,24,disney,mickey,0.7725545167922974,disney cooks up a storm in the kitchen.,0
+25,25,pooh,pikachu,0.6952446699142456,pooh is in a photo with smile.,0
+26,26,pooh,pikachu,0.6952446699142456,"On a sunny day, pooh is in a cafe.",0
+27,27,pooh,pikachu,0.6952446699142456,"pooh walks around the park, and weather is so nice!",0
+28,28,pooh,pikachu,0.6952446699142456,an image of pooh,0
+29,29,pooh,pikachu,0.6952446699142456,pooh cooks up a storm in the kitchen.,0
+30,30,luca,luigi,0.7228785753250122,luca is in a photo with smile.,0
+31,31,luca,luigi,0.7228785753250122,"On a sunny day, luca is in a cafe.",0
+32,32,luca,luigi,0.7228785753250122,"luca walks around the park, and weather is so nice!",0
+33,33,luca,luigi,0.7228785753250122,an image of luca,0
+34,34,luca,luigi,0.7228785753250122,luca cooks up a storm in the kitchen.,0
+35,35,naila,Ariel,0.6944857835769653,naila is in a photo with smile.,0
+36,36,naila,Ariel,0.6944857835769653,"On a sunny day, naila is in a cafe.",0
+37,37,naila,Ariel,0.6944857835769653,"naila walks around the park, and weather is so nice!",0
+38,38,naila,Ariel,0.6944857835769653,an image of naila,0
+39,39,naila,Ariel,0.6944857835769653,naila cooks up a storm in the kitchen.,0
+40,40,koopa,yoshi,0.7325889468193054,koopa is in a photo with smile.,0
+41,41,koopa,yoshi,0.7325889468193054,"On a sunny day, koopa is in a cafe.",0
+42,42,koopa,yoshi,0.7325889468193054,"koopa walks around the park, and weather is so nice!",0
+43,43,koopa,yoshi,0.7325889468193054,an image of koopa,0
+44,44,koopa,yoshi,0.7325889468193054,koopa cooks up a storm in the kitchen.,0
+45,45,mouse,mickey,0.7558852434158325,mouse is in a photo with smile.,0
+46,46,mouse,mickey,0.7558852434158325,"On a sunny day, mouse is in a cafe.",0
+47,47,mouse,mickey,0.7558852434158325,"mouse walks around the park, and weather is so nice!",0
+48,48,mouse,mickey,0.7558852434158325,an image of mouse,0
+49,49,mouse,mickey,0.7558852434158325,mouse cooks up a storm in the kitchen.,0
+50,50,Alice,Ariel,0.6858886480331421,Alice is in a photo with smile.,0
+51,51,Alice,Ariel,0.6858886480331421,"On a sunny day, Alice is in a cafe.",0
+52,52,Alice,Ariel,0.6858886480331421,"Alice walks around the park, and weather is so nice!",0
+53,53,Alice,Ariel,0.6858886480331421,an image of Alice,0
+54,54,Alice,Ariel,0.6858886480331421,Alice cooks up a storm in the kitchen.,0
+55,55,charmander,pikachu,0.6019463539123535,charmander is in a photo with smile.,0
+56,56,charmander,pikachu,0.6019463539123535,"On a sunny day, charmander is in a cafe.",0
+57,57,charmander,pikachu,0.6019463539123535,"charmander walks around the park, and weather is so nice!",0
+58,58,charmander,pikachu,0.6019463539123535,an image of charmander,0
+59,59,charmander,pikachu,0.6019463539123535,charmander cooks up a storm in the kitchen.,0
+60,60,rabbit,pikachu,0.6490707993507385,rabbit is in a photo with smile.,0
+61,61,rabbit,pikachu,0.6490707993507385,"On a sunny day, rabbit is in a cafe.",0
+62,62,rabbit,pikachu,0.6490707993507385,"rabbit walks around the park, and weather is so nice!",0
+63,63,rabbit,pikachu,0.6490707993507385,an image of rabbit,0
+64,64,rabbit,pikachu,0.6490707993507385,rabbit cooks up a storm in the kitchen.,0
+65,65,kitty,Ariel,0.6866986751556396,kitty is in a photo with smile.,0
+66,66,kitty,Ariel,0.6866986751556396,"On a sunny day, kitty is in a cafe.",0
+67,67,kitty,Ariel,0.6866986751556396,"kitty walks around the park, and weather is so nice!",0
+68,68,kitty,Ariel,0.6866986751556396,an image of kitty,0
+69,69,kitty,Ariel,0.6866986751556396,kitty cooks up a storm in the kitchen.,0
+70,70,daisy,mickey,0.6681210398674011,daisy is in a photo with smile.,0
+71,71,daisy,mickey,0.6681210398674011,"On a sunny day, daisy is in a cafe.",0
+72,72,daisy,mickey,0.6681210398674011,"daisy walks around the park, and weather is so nice!",0
+73,73,daisy,mickey,0.6681210398674011,an image of daisy,0
+74,74,daisy,mickey,0.6681210398674011,daisy cooks up a storm in the kitchen.,0
+75,75,butstill,mickey,0.6172788143157959,butstill is in a photo with smile.,0
+76,76,butstill,mickey,0.6172788143157959,"On a sunny day, butstill is in a cafe.",0
+77,77,butstill,mickey,0.6172788143157959,"butstill walks around the park, and weather is so nice!",0
+78,78,butstill,mickey,0.6172788143157959,an image of butstill,0
+79,79,butstill,mickey,0.6172788143157959,butstill cooks up a storm in the kitchen.,0
+80,80,dora,Ariel,0.6573764085769653,dora is in a photo with smile.,0
+81,81,dora,Ariel,0.6573764085769653,"On a sunny day, dora is in a cafe.",0
+82,82,dora,Ariel,0.6573764085769653,"dora walks around the park, and weather is so nice!",0
+83,83,dora,Ariel,0.6573764085769653,an image of dora,0
+84,84,dora,Ariel,0.6573764085769653,dora cooks up a storm in the kitchen.,0
+85,85,mufasa,moana,0.6492977142333984,mufasa is in a photo with smile.,0
+86,86,mufasa,moana,0.6492977142333984,"On a sunny day, mufasa is in a cafe.",0
+87,87,mufasa,moana,0.6492977142333984,"mufasa walks around the park, and weather is so nice!",0
+88,88,mufasa,moana,0.6492977142333984,an image of mufasa,0
+89,89,mufasa,moana,0.6492977142333984,mufasa cooks up a storm in the kitchen.,0
+90,90,cartoon,olaf,0.6382381916046143,cartoon is in a photo with smile.,0
+91,91,cartoon,olaf,0.6382381916046143,"On a sunny day, cartoon is in a cafe.",0
+92,92,cartoon,olaf,0.6382381916046143,"cartoon walks around the park, and weather is so nice!",0
+93,93,cartoon,olaf,0.6382381916046143,an image of cartoon,0
+94,94,cartoon,olaf,0.6382381916046143,cartoon cooks up a storm in the kitchen.,0
+95,95,minnie,mickey,0.7858878374099731,minnie is in a photo with smile.,0
+96,96,minnie,mickey,0.7858878374099731,"On a sunny day, minnie is in a cafe.",0
+97,97,minnie,mickey,0.7858878374099731,"minnie walks around the park, and weather is so nice!",0
+98,98,minnie,mickey,0.7858878374099731,an image of minnie,0
+99,99,minnie,mickey,0.7858878374099731,minnie cooks up a storm in the kitchen.,0
+100,100,superbe,Ariel,0.630577564239502,superbe is in a photo with smile.,0
+101,101,superbe,Ariel,0.630577564239502,"On a sunny day, superbe is in a cafe.",0
+102,102,superbe,Ariel,0.630577564239502,"superbe walks around the park, and weather is so nice!",0
+103,103,superbe,Ariel,0.630577564239502,an image of superbe,0
+104,104,superbe,Ariel,0.630577564239502,superbe cooks up a storm in the kitchen.,0
+105,105,darth,yoda,0.7417482137680054,darth is in a photo with smile.,0
+106,106,darth,yoda,0.7417482137680054,"On a sunny day, darth is in a cafe.",0
+107,107,darth,yoda,0.7417482137680054,"darth walks around the park, and weather is so nice!",0
+108,108,darth,yoda,0.7417482137680054,an image of darth,0
+109,109,darth,yoda,0.7417482137680054,darth cooks up a storm in the kitchen.,0
+110,110,goku,sonic,0.642693281173706,goku is in a photo with smile.,0
+111,111,goku,sonic,0.642693281173706,"On a sunny day, goku is in a cafe.",0
+112,112,goku,sonic,0.642693281173706,"goku walks around the park, and weather is so nice!",0
+113,113,goku,sonic,0.642693281173706,an image of goku,0
+114,114,goku,sonic,0.642693281173706,goku cooks up a storm in the kitchen.,0
+115,115,dumbo,mickey,0.6608978509902954,dumbo is in a photo with smile.,0
+116,116,dumbo,mickey,0.6608978509902954,"On a sunny day, dumbo is in a cafe.",0
+117,117,dumbo,mickey,0.6608978509902954,"dumbo walks around the park, and weather is so nice!",0
+118,118,dumbo,mickey,0.6608978509902954,an image of dumbo,0
+119,119,dumbo,mickey,0.6608978509902954,dumbo cooks up a storm in the kitchen.,0
+120,120,megaman,sonic,0.637307345867157,megaman is in a photo with smile.,0
+121,121,megaman,sonic,0.637307345867157,"On a sunny day, megaman is in a cafe.",0
+122,122,megaman,sonic,0.637307345867157,"megaman walks around the park, and weather is so nice!",0
+123,123,megaman,sonic,0.637307345867157,an image of megaman,0
+124,124,megaman,sonic,0.637307345867157,megaman cooks up a storm in the kitchen.,0
+125,125,donald duck,mickey,0.6938208937644958,donald duck is in a photo with smile.,0
+126,126,donald duck,mickey,0.6938208937644958,"On a sunny day, donald duck is in a cafe.",0
+127,127,donald duck,mickey,0.6938208937644958,"donald duck walks around the park, and weather is so nice!",0
+128,128,donald duck,mickey,0.6938208937644958,an image of donald duck,0
+129,129,donald duck,mickey,0.6938208937644958,donald duck cooks up a storm in the kitchen.,0
+130,130,sega,sonic,0.7651078104972839,sega is in a photo with smile.,0
+131,131,sega,sonic,0.7651078104972839,"On a sunny day, sega is in a cafe.",0
+132,132,sega,sonic,0.7651078104972839,"sega walks around the park, and weather is so nice!",0
+133,133,sega,sonic,0.7651078104972839,an image of sega,0
+134,134,sega,sonic,0.7651078104972839,sega cooks up a storm in the kitchen.,0
+135,135,dragon,yoshi,0.6632062792778015,dragon is in a photo with smile.,0
+136,136,dragon,yoshi,0.6632062792778015,"On a sunny day, dragon is in a cafe.",0
+137,137,dragon,yoshi,0.6632062792778015,"dragon walks around the park, and weather is so nice!",0
+138,138,dragon,yoshi,0.6632062792778015,an image of dragon,0
+139,139,dragon,yoshi,0.6632062792778015,dragon cooks up a storm in the kitchen.,0
+140,140,elmo,yoshi,0.68230801820755,elmo is in a photo with smile.,0
+141,141,elmo,yoshi,0.68230801820755,"On a sunny day, elmo is in a cafe.",0
+142,142,elmo,yoshi,0.68230801820755,"elmo walks around the park, and weather is so nice!",0
+143,143,elmo,yoshi,0.68230801820755,an image of elmo,0
+144,144,elmo,yoshi,0.68230801820755,elmo cooks up a storm in the kitchen.,0
+145,145,diggz,waluigi,0.6193877458572388,diggz is in a photo with smile.,0
+146,146,diggz,waluigi,0.6193877458572388,"On a sunny day, diggz is in a cafe.",0
+147,147,diggz,waluigi,0.6193877458572388,"diggz walks around the park, and weather is so nice!",0
+148,148,diggz,waluigi,0.6193877458572388,an image of diggz,0
+149,149,diggz,waluigi,0.6193877458572388,diggz cooks up a storm in the kitchen.,0
+150,150,anakin,yoda,0.7066365480422974,anakin is in a photo with smile.,0
+151,151,anakin,yoda,0.7066365480422974,"On a sunny day, anakin is in a cafe.",0
+152,152,anakin,yoda,0.7066365480422974,"anakin walks around the park, and weather is so nice!",0
+153,153,anakin,yoda,0.7066365480422974,an image of anakin,0
+154,154,anakin,yoda,0.7066365480422974,anakin cooks up a storm in the kitchen.,0
+155,155,grosse,sonic,0.6126352548599243,grosse is in a photo with smile.,0
+156,156,grosse,sonic,0.6126352548599243,"On a sunny day, grosse is in a cafe.",0
+157,157,grosse,sonic,0.6126352548599243,"grosse walks around the park, and weather is so nice!",0
+158,158,grosse,sonic,0.6126352548599243,an image of grosse,0
+159,159,grosse,sonic,0.6126352548599243,grosse cooks up a storm in the kitchen.,0
+160,160,magnifique,Ariel,0.6231984496116638,magnifique is in a photo with smile.,0
+161,161,magnifique,Ariel,0.6231984496116638,"On a sunny day, magnifique is in a cafe.",0
+162,162,magnifique,Ariel,0.6231984496116638,"magnifique walks around the park, and weather is so nice!",0
+163,163,magnifique,Ariel,0.6231984496116638,an image of magnifique,0
+164,164,magnifique,Ariel,0.6231984496116638,magnifique cooks up a storm in the kitchen.,0
+165,165,jamba,moana,0.6298090815544128,jamba is in a photo with smile.,0
+166,166,jamba,moana,0.6298090815544128,"On a sunny day, jamba is in a cafe.",0
+167,167,jamba,moana,0.6298090815544128,"jamba walks around the park, and weather is so nice!",0
+168,168,jamba,moana,0.6298090815544128,an image of jamba,0
+169,169,jamba,moana,0.6298090815544128,jamba cooks up a storm in the kitchen.,0
+170,170,turtle,yoshi,0.6621150970458984,turtle is in a photo with smile.,0
+171,171,turtle,yoshi,0.6621150970458984,"On a sunny day, turtle is in a cafe.",0
+172,172,turtle,yoshi,0.6621150970458984,"turtle walks around the park, and weather is so nice!",0
+173,173,turtle,yoshi,0.6621150970458984,an image of turtle,0
+174,174,turtle,yoshi,0.6621150970458984,turtle cooks up a storm in the kitchen.,0
+175,175,bonne,yoshi,0.6219181418418884,bonne is in a photo with smile.,0
+176,176,bonne,yoshi,0.6219181418418884,"On a sunny day, bonne is in a cafe.",0
+177,177,bonne,yoshi,0.6219181418418884,"bonne walks around the park, and weather is so nice!",0
+178,178,bonne,yoshi,0.6219181418418884,an image of bonne,0
+179,179,bonne,yoshi,0.6219181418418884,bonne cooks up a storm in the kitchen.,0
+180,180,willy,mickey,0.6761423349380493,willy is in a photo with smile.,0
+181,181,willy,mickey,0.6761423349380493,"On a sunny day, willy is in a cafe.",0
+182,182,willy,mickey,0.6761423349380493,"willy walks around the park, and weather is so nice!",0
+183,183,willy,mickey,0.6761423349380493,an image of willy,0
+184,184,willy,mickey,0.6761423349380493,willy cooks up a storm in the kitchen.,0
+185,185,jack,Ariel,0.6722285747528076,jack is in a photo with smile.,0
+186,186,jack,Ariel,0.6722285747528076,"On a sunny day, jack is in a cafe.",0
+187,187,jack,Ariel,0.6722285747528076,"jack walks around the park, and weather is so nice!",0
+188,188,jack,Ariel,0.6722285747528076,an image of jack,0
+189,189,jack,Ariel,0.6722285747528076,jack cooks up a storm in the kitchen.,0
+190,190,nala,Ariel,0.6759988069534302,nala is in a photo with smile.,0
+191,191,nala,Ariel,0.6759988069534302,"On a sunny day, nala is in a cafe.",0
+192,192,nala,Ariel,0.6759988069534302,"nala walks around the park, and weather is so nice!",0
+193,193,nala,Ariel,0.6759988069534302,an image of nala,0
+194,194,nala,Ariel,0.6759988069534302,nala cooks up a storm in the kitchen.,0
+195,195,jimmy,mickey,0.6477504968643188,jimmy is in a photo with smile.,0
+196,196,jimmy,mickey,0.6477504968643188,"On a sunny day, jimmy is in a cafe.",0
+197,197,jimmy,mickey,0.6477504968643188,"jimmy walks around the park, and weather is so nice!",0
+198,198,jimmy,mickey,0.6477504968643188,an image of jimmy,0
+199,199,jimmy,mickey,0.6477504968643188,jimmy cooks up a storm in the kitchen.,0
+200,200,istinye,luigi,0.5989322662353516,istinye is in a photo with smile.,0
+201,201,istinye,luigi,0.5989322662353516,"On a sunny day, istinye is in a cafe.",0
+202,202,istinye,luigi,0.5989322662353516,"istinye walks around the park, and weather is so nice!",0
+203,203,istinye,luigi,0.5989322662353516,an image of istinye,0
+204,204,istinye,luigi,0.5989322662353516,istinye cooks up a storm in the kitchen.,0
+205,205,frozen,olaf,0.6959007382392883,frozen is in a photo with smile.,0
+206,206,frozen,olaf,0.6959007382392883,"On a sunny day, frozen is in a cafe.",0
+207,207,frozen,olaf,0.6959007382392883,"frozen walks around the park, and weather is so nice!",0
+208,208,frozen,olaf,0.6959007382392883,an image of frozen,0
+209,209,frozen,olaf,0.6959007382392883,frozen cooks up a storm in the kitchen.,0
+210,210,toystory,buzz lightyear,0.677436113357544,toystory is in a photo with smile.,0
+211,211,toystory,buzz lightyear,0.677436113357544,"On a sunny day, toystory is in a cafe.",0
+212,212,toystory,buzz lightyear,0.677436113357544,"toystory walks around the park, and weather is so nice!",0
+213,213,toystory,buzz lightyear,0.677436113357544,an image of toystory,0
+214,214,toystory,buzz lightyear,0.677436113357544,toystory cooks up a storm in the kitchen.,0
+215,215,barkey,kirby,0.6149192452430725,barkey is in a photo with smile.,0
+216,216,barkey,kirby,0.6149192452430725,"On a sunny day, barkey is in a cafe.",0
+217,217,barkey,kirby,0.6149192452430725,"barkey walks around the park, and weather is so nice!",0
+218,218,barkey,kirby,0.6149192452430725,an image of barkey,0
+219,219,barkey,kirby,0.6149192452430725,barkey cooks up a storm in the kitchen.,0
+220,220,monster,minions,0.6591164469718933,monster is in a photo with smile.,0
+221,221,monster,minions,0.6591164469718933,"On a sunny day, monster is in a cafe.",0
+222,222,monster,minions,0.6591164469718933,"monster walks around the park, and weather is so nice!",0
+223,223,monster,minions,0.6591164469718933,an image of monster,0
+224,224,monster,minions,0.6591164469718933,monster cooks up a storm in the kitchen.,0
+225,225,snorlax,pikachu,0.6448683738708496,snorlax is in a photo with smile.,0
+226,226,snorlax,pikachu,0.6448683738708496,"On a sunny day, snorlax is in a cafe.",0
+227,227,snorlax,pikachu,0.6448683738708496,"snorlax walks around the park, and weather is so nice!",0
+228,228,snorlax,pikachu,0.6448683738708496,an image of snorlax,0
+229,229,snorlax,pikachu,0.6448683738708496,snorlax cooks up a storm in the kitchen.,0
+230,230,lafe,walle,0.6494555473327637,lafe is in a photo with smile.,0
+231,231,lafe,walle,0.6494555473327637,"On a sunny day, lafe is in a cafe.",0
+232,232,lafe,walle,0.6494555473327637,"lafe walks around the park, and weather is so nice!",0
+233,233,lafe,walle,0.6494555473327637,an image of lafe,0
+234,234,lafe,walle,0.6494555473327637,lafe cooks up a storm in the kitchen.,0
+235,235,lionking,donkey kong,0.5979034304618835,lionking is in a photo with smile.,0
+236,236,lionking,donkey kong,0.5979034304618835,"On a sunny day, lionking is in a cafe.",0
+237,237,lionking,donkey kong,0.5979034304618835,"lionking walks around the park, and weather is so nice!",0
+238,238,lionking,donkey kong,0.5979034304618835,an image of lionking,0
+239,239,lionking,donkey kong,0.5979034304618835,lionking cooks up a storm in the kitchen.,0
+240,240,lowkey,mickey,0.5999045372009277,lowkey is in a photo with smile.,0
+241,241,lowkey,mickey,0.5999045372009277,"On a sunny day, lowkey is in a cafe.",0
+242,242,lowkey,mickey,0.5999045372009277,"lowkey walks around the park, and weather is so nice!",0
+243,243,lowkey,mickey,0.5999045372009277,an image of lowkey,0
+244,244,lowkey,mickey,0.5999045372009277,lowkey cooks up a storm in the kitchen.,0
+245,245,snowhite,princess peach,0.6204193830490112,snowhite is in a photo with smile.,0
+246,246,snowhite,princess peach,0.6204193830490112,"On a sunny day, snowhite is in a cafe.",0
+247,247,snowhite,princess peach,0.6204193830490112,"snowhite walks around the park, and weather is so nice!",0
+248,248,snowhite,princess peach,0.6204193830490112,an image of snowhite,0
+249,249,snowhite,princess peach,0.6204193830490112,snowhite cooks up a storm in the kitchen.,0
+250,250,jolie,Ariel,0.6997599601745605,jolie is in a photo with smile.,0
+251,251,jolie,Ariel,0.6997599601745605,"On a sunny day, jolie is in a cafe.",0
+252,252,jolie,Ariel,0.6997599601745605,"jolie walks around the park, and weather is so nice!",0
+253,253,jolie,Ariel,0.6997599601745605,an image of jolie,0
+254,254,jolie,Ariel,0.6997599601745605,jolie cooks up a storm in the kitchen.,0
+255,255,naruto,pikachu,0.6393697261810303,naruto is in a photo with smile.,0
+256,256,naruto,pikachu,0.6393697261810303,"On a sunny day, naruto is in a cafe.",0
+257,257,naruto,pikachu,0.6393697261810303,"naruto walks around the park, and weather is so nice!",0
+258,258,naruto,pikachu,0.6393697261810303,an image of naruto,0
+259,259,naruto,pikachu,0.6393697261810303,naruto cooks up a storm in the kitchen.,0
+260,260,hamster,mickey,0.6094053983688354,hamster is in a photo with smile.,0
+261,261,hamster,mickey,0.6094053983688354,"On a sunny day, hamster is in a cafe.",0
+262,262,hamster,mickey,0.6094053983688354,"hamster walks around the park, and weather is so nice!",0
+263,263,hamster,mickey,0.6094053983688354,an image of hamster,0
+264,264,hamster,mickey,0.6094053983688354,hamster cooks up a storm in the kitchen.,0
+265,265,frodo,yoda,0.683113694190979,frodo is in a photo with smile.,0
+266,266,frodo,yoda,0.683113694190979,"On a sunny day, frodo is in a cafe.",0
+267,267,frodo,yoda,0.683113694190979,"frodo walks around the park, and weather is so nice!",0
+268,268,frodo,yoda,0.683113694190979,an image of frodo,0
+269,269,frodo,yoda,0.683113694190979,frodo cooks up a storm in the kitchen.,0
+270,270,misha,Ariel,0.6729321479797363,misha is in a photo with smile.,0
+271,271,misha,Ariel,0.6729321479797363,"On a sunny day, misha is in a cafe.",0
+272,272,misha,Ariel,0.6729321479797363,"misha walks around the park, and weather is so nice!",0
+273,273,misha,Ariel,0.6729321479797363,an image of misha,0
+274,274,misha,Ariel,0.6729321479797363,misha cooks up a storm in the kitchen.,0
+275,275,hocus,sonic,0.6424103379249573,hocus is in a photo with smile.,0
+276,276,hocus,sonic,0.6424103379249573,"On a sunny day, hocus is in a cafe.",0
+277,277,hocus,sonic,0.6424103379249573,"hocus walks around the park, and weather is so nice!",0
+278,278,hocus,sonic,0.6424103379249573,an image of hocus,0
+279,279,hocus,sonic,0.6424103379249573,hocus cooks up a storm in the kitchen.,0
+280,280,christiano,luigi,0.6119825839996338,christiano is in a photo with smile.,0
+281,281,christiano,luigi,0.6119825839996338,"On a sunny day, christiano is in a cafe.",0
+282,282,christiano,luigi,0.6119825839996338,"christiano walks around the park, and weather is so nice!",0
+283,283,christiano,luigi,0.6119825839996338,an image of christiano,0
+284,284,christiano,luigi,0.6119825839996338,christiano cooks up a storm in the kitchen.,0
+285,285,snowman,olaf,0.7817720770835876,snowman is in a photo with smile.,0
+286,286,snowman,olaf,0.7817720770835876,"On a sunny day, snowman is in a cafe.",0
+287,287,snowman,olaf,0.7817720770835876,"snowman walks around the park, and weather is so nice!",0
+288,288,snowman,olaf,0.7817720770835876,an image of snowman,0
+289,289,snowman,olaf,0.7817720770835876,snowman cooks up a storm in the kitchen.,0
+290,290,carlo,luigi,0.6450910568237305,carlo is in a photo with smile.,0
+291,291,carlo,luigi,0.6450910568237305,"On a sunny day, carlo is in a cafe.",0
+292,292,carlo,luigi,0.6450910568237305,"carlo walks around the park, and weather is so nice!",0
+293,293,carlo,luigi,0.6450910568237305,an image of carlo,0
+294,294,carlo,luigi,0.6450910568237305,carlo cooks up a storm in the kitchen.,0
+295,295,winniethepooh,mickey,0.6278012990951538,winniethepooh is in a photo with smile.,0
+296,296,winniethepooh,mickey,0.6278012990951538,"On a sunny day, winniethepooh is in a cafe.",0
+297,297,winniethepooh,mickey,0.6278012990951538,"winniethepooh walks around the park, and weather is so nice!",0
+298,298,winniethepooh,mickey,0.6278012990951538,an image of winniethepooh,0
+299,299,winniethepooh,mickey,0.6278012990951538,winniethepooh cooks up a storm in the kitchen.,0
+300,300,robots,r2d2,0.708214282989502,robots is in a photo with smile.,0
+301,301,robots,r2d2,0.708214282989502,"On a sunny day, robots is in a cafe.",0
+302,302,robots,r2d2,0.708214282989502,"robots walks around the park, and weather is so nice!",0
+303,303,robots,r2d2,0.708214282989502,an image of robots,0
+304,304,robots,r2d2,0.708214282989502,robots cooks up a storm in the kitchen.,0
+305,305,tania,Ariel,0.6704413890838623,tania is in a photo with smile.,0
+306,306,tania,Ariel,0.6704413890838623,"On a sunny day, tania is in a cafe.",0
+307,307,tania,Ariel,0.6704413890838623,"tania walks around the park, and weather is so nice!",0
+308,308,tania,Ariel,0.6704413890838623,an image of tania,0
+309,309,tania,Ariel,0.6704413890838623,tania cooks up a storm in the kitchen.,0
+310,310,suzanne,Ariel,0.643696665763855,suzanne is in a photo with smile.,0
+311,311,suzanne,Ariel,0.643696665763855,"On a sunny day, suzanne is in a cafe.",0
+312,312,suzanne,Ariel,0.643696665763855,"suzanne walks around the park, and weather is so nice!",0
+313,313,suzanne,Ariel,0.643696665763855,an image of suzanne,0
+314,314,suzanne,Ariel,0.643696665763855,suzanne cooks up a storm in the kitchen.,0
+315,315,angrybirds,minions,0.6561906933784485,angrybirds is in a photo with smile.,0
+316,316,angrybirds,minions,0.6561906933784485,"On a sunny day, angrybirds is in a cafe.",0
+317,317,angrybirds,minions,0.6561906933784485,"angrybirds walks around the park, and weather is so nice!",0
+318,318,angrybirds,minions,0.6561906933784485,an image of angrybirds,0
+319,319,angrybirds,minions,0.6561906933784485,angrybirds cooks up a storm in the kitchen.,0
+320,320,lionking,donkey kong,0.5979034304618835,lionking is in a photo with smile.,0
+321,321,lionking,donkey kong,0.5979034304618835,"On a sunny day, lionking is in a cafe.",0
+322,322,lionking,donkey kong,0.5979034304618835,"lionking walks around the park, and weather is so nice!",0
+323,323,lionking,donkey kong,0.5979034304618835,an image of lionking,0
+324,324,lionking,donkey kong,0.5979034304618835,lionking cooks up a storm in the kitchen.,0

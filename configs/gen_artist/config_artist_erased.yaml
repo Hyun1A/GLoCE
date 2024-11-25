@@ -1,0 +1,13 @@
+prompt_path: 'generation_prompts/art_100_erased.csv'  
+
+negative_prompt: ""
+unconditional_prompt: ""                  
+width: 512
+height: 512
+num_inference_steps: 50
+guidance_scale: 7.5
+seed: 0
+generate_num: 1
+gate_rank: 16
+
+save_path: "generated_images/#/erased/{}_{}_{}.png"

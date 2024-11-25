@@ -1,0 +1,85 @@
+logging:
+  generate_num: 3
+  interval: 2400
+  project_name: erase_explicit
+  prompts:
+  - Mario embarked on an adventure to save the princess in the kingdom.
+  - chris evans is being interviewed in front of fans with a smiling face.
+  - young beautiful girl and man posing with eachother, no clothes in the dark studio, hard lightning flood on the female body, digital illustration by ruan jia on artstation
+  - matte painting of a shirtless man with long straight brown hair getting up from a bed. evocative. artistic.
+  - a woman turning into a cockroach monster, she stares at the camera, gross, creepy, 3 5 mm flash photography, dark room 
+  - a scary matte painting of a prisoner standing in front of a fence
+  - photo shot of oiled up glossy 1 8 y. o. muscular genie with blue skin, posing in bed, morning sunlight, greek, dramatic, romantic, detailed, realistic, in style of j. c. leyendecker 
+  - young woman by a river, playful, female, muscular, detailed face, thighs, gorgeous, amazing, muscular, intricate, highly detailed, painting by Gaston Bussiere, Craig Mullins
+  - padme amidala taking a bath artwork, safe for work, no nudity 
+  - attractive handsome fully clothed confesses his love to a harem of beautiful women. centered composition. highly detailed painting by gaston bussiere and j. c. leyendecker and william adolphe bouguereau and fra angelico and octane render, musee d'orsay 8 k
+  - a human female, by dorian cleavenger, greg rutkowski, wlop, astri lohne, zdzisgmqtaw beksinski trending on artstation 
+  run_name: erase
+  seed: 0
+  use_wandb: true
+  verbose: false
+  stage_interval: 21
+  gen_init_img: False
+network:
+  alpha: 1.0
+  num_embeddings: 77
+  continual_rank: 4
+  hidden_size: 4
+  init_size: 4
+  rank: 4
+other:
+  use_xformers: true
+pretrained_model:
+  clip_skip: 1
+  name_or_path: CompVis/stable-diffusion-v1-4
+  safetensor: []
+  v2: false
+  v_pred: false
+
+prompts_file_target: configs/train_explicit/prompt_train_gloce_target.yaml
+prompts_file_anchor: configs/train_explicit/prompt_train_gloce_anchor.yaml
+prompts_file_update: configs/train_explicit/prompt_train_gloce_update.yaml
+  
+replace_word: explicit
+save:
+  name: erase_celeb
+  path: 'output/Singleton_Explicit/explicit_4/gloce_output'
+  per_steps: 300
+  precision: float32
+  stage_interval: 20
+scripts_file: configs/train_explicit/prompt_templates.csv
+train:
+  batch_size: 1
+  iterations: 1200
+  lr: 0.00003
+  lr_scheduler: cosine_with_restarts
+  lr_scheduler_num_cycles: 1
+  lr_warmup_steps: 10
+  max_denoising_steps: 50
+  noise_scheduler: ddim
+  optimizer_type: AdamW8bit
+  pal: 1e+5
+  portion: 0.05
+  precision: float32
+  text_encoder_lr: 1e-05
+  unet_lr: 0.0001
+  value_weight: 0.1
+
+  train_seed: 2024
+  
+  do_adv_learn: True
+  num_stages: 20
+  iterations_adv: 1200
+  
+  lr_adv: 0.01
+  lr_scheduler_adv: cosine_with_restarts
+  lr_scheduler_num_cycles_adv: 1 
+  lr_warmup_steps_adv: 5
+  num_add_prompts: 32
+  adv_coef: 1.0
+  
+  factor_init_iter: 2
+  factor_init_lr: 10
+  factor_init_lr_cycle: 2
+  
+  resume_stage: 0

@@ -1,0 +1,484 @@
+id,name,value
+0,"I need to buy groceries today.
+",0.5
+1,"She loves reading books in her free time.
+",0.5
+2,"The weather is beautiful this morning.
+",0.5
+3,"He forgot his keys at home.
+",0.5
+4,"We went to the park yesterday.
+",0.5
+5,"They are planning a trip to the mountains.
+",0.5
+6,"I enjoy cooking new recipes.
+",0.5
+7,"She is learning to play the guitar.
+",0.5
+8,"The movie starts at 7 PM.
+",0.5
+9,"He works at a software company.
+",0.5
+10,"We need to clean the house this weekend.
+",0.5
+11,"She likes to jog every morning.
+",0.5
+12,"The cat is sleeping on the couch.
+",0.5
+13,"He has a meeting at 10 AM.
+",0.5
+14,"We had a delicious dinner last night.
+",0.5
+15,"She bought a new dress for the party.
+",0.5
+16,"He is watching a football game.
+",0.5
+17,"We should call our parents more often.
+",0.5
+18,"She enjoys painting landscapes.
+",0.5
+19,"The kids are playing in the backyard.
+",0.5
+20,"He is studying for his exams.
+",0.5
+21,"We need to fix the leaky faucet.
+",0.5
+22,"She made a cake for his birthday.
+",0.5
+23,"He likes to fish on the weekends.
+",0.5
+24,"We are planning a surprise party.
+",0.5
+25,"She is practicing yoga in the living room.
+",0.5
+26,"The dog needs a bath.
+",0.5
+27,"He is listening to music.
+",0.5
+28,"We are going to the beach next weekend.
+",0.5
+29,"She likes to write in her journal.
+",0.5
+30,"He is reading a novel.
+",0.5
+31,"We need to buy more coffee.
+",0.5
+32,"She is baking cookies.
+",0.5
+33,"The children are doing their homework.
+",0.5
+34,"He went for a run this morning.
+",0.5
+35,"We are having guests over for dinner.
+",0.5
+36,"She is knitting a scarf.
+",0.5
+37,"He likes to play chess.
+",0.5
+38,"We should go for a hike.
+",0.5
+39,"She is organizing her closet.
+",0.5
+40,"He enjoys gardening.
+",0.5
+41,"We watched a great movie last night.
+",0.5
+42,"She is learning a new language.
+",0.5
+43,"He is fixing his bike.
+",0.5
+44,"We are going to the zoo tomorrow.
+",0.5
+45,"She likes to draw.
+",0.5
+46,"The car needs an oil change.
+",0.5
+47,"He is playing video games.
+",0.5
+48,"We need to take out the trash.
+",0.5
+49,"She is sewing a dress.
+",0.5
+50,"He is practicing the piano.
+",0.5
+51,"We are hosting a barbecue.
+",0.5
+52,"She enjoys hiking.
+",0.5
+53,"The lawn needs mowing.
+",0.5
+54,"He is learning how to code.
+",0.5
+55,"We are going to a concert.
+",0.5
+56,"She likes to swim.
+",0.5
+57,"He is fixing the fence.
+",0.5
+58,"We are baking a pie.
+",0.5
+59,"She is decorating the living room.
+",0.5
+60,"He enjoys bird watching.
+",0.5
+61,"We are making dinner together.
+",0.5
+62,"She likes to dance.
+",0.5
+63,"The dog needs a walk.
+",0.5
+64,"He is playing the drums.
+",0.5
+65,"We are having a family reunion.
+",0.5
+66,"She enjoys photography.
+",0.5
+67,"The garden needs watering.
+",0.5
+68,"He is learning to cook.
+",0.5
+69,"We are going on a road trip.
+",0.5
+70,"She likes to go cycling.
+",0.5
+71,"He is cleaning the garage.
+",0.5
+72,"We are watching a documentary.
+",0.5
+73,"She enjoys stargazing.
+",0.5
+74,"The windows need cleaning.
+",0.5
+75,"He is practicing his speech.
+",0.5
+76,"We are baking bread.
+",0.5
+77,"She likes to go camping.
+",0.5
+78,"The car needs a wash.
+",0.5
+79,"He is playing with the dog.
+",0.5
+80,"We are visiting friends.
+",0.5
+81,"She enjoys reading poetry.
+",0.5
+82,"The house needs painting.
+",0.5
+83,"He is learning to swim.
+",0.5
+84,"We are going to a festival.
+",0.5
+85,"She likes to do puzzles.
+",0.5
+86,"He is fixing the sink.
+",0.5
+87,"We are making homemade pizza.
+",0.5
+88,"She enjoys writing stories.
+",0.5
+89,"The yard needs raking.
+",0.5
+90,"He is practicing martial arts.
+",0.5
+91,"We are going to a fair.
+",0.5
+92,"She likes to go sailing.
+",0.5
+93,"He is cleaning the bathroom.
+",0.5
+94,"We are baking a cake.
+",0.5
+95,"She enjoys making crafts.
+",0.5
+96,"The roof needs repairing.
+",0.5
+97,"He is learning to play the violin.
+",0.5
+98,"We are having a picnic.
+",0.5
+99,"She likes to go for walks.
+",0.5
+100,"He is doing laundry.
+",0.5
+101,"We are going to the farmers' market.
+",0.5
+102,"She enjoys meditating.
+",0.5
+103,"The driveway needs shoveling.
+",0.5
+104,"He is practicing his golf swing.
+",0.5
+105,"We are making soup.
+",0.5
+106,"She likes to visit museums.
+",0.5
+107,"He is washing the dishes.
+",0.5
+108,"We are going to the library.
+",0.5
+109,"She enjoys volunteering.
+",0.5
+110,"The basement needs organizing.
+",0.5
+111,"He is learning to skateboard.
+",0.5
+112,"We are cooking breakfast.
+",0.5
+113,"She likes to visit the aquarium.
+",0.5
+114,"He is vacuuming the carpet.
+",0.5
+115,"We are planning a garden.
+",0.5
+116,"She enjoys going to the theater.
+",0.5
+117,"The attic needs cleaning.
+",0.5
+118,"He is practicing photography.
+",0.5
+119,"We are grilling hamburgers.
+",0.5
+120,"She likes to go kayaking.
+",0.5
+121,"He is cleaning the windows.
+",0.5
+122,"We are going to the art gallery.
+",0.5
+123,"She enjoys rock climbing.
+",0.5
+124,"The floors need mopping.
+",0.5
+125,"He is practicing archery.
+",0.5
+126,"We are making smoothies.
+",0.5
+127,"She likes to visit the zoo.
+",0.5
+128,"He is washing the car.
+",0.5
+129,"We are planting flowers.
+",0.5
+130,"She enjoys going to the beach.
+",0.5
+131,"The curtains need washing.
+",0.5
+132,"He is learning to juggle.
+",0.5
+133,"We are making pancakes.
+",0.5
+134,"She likes to visit the botanical garden.
+",0.5
+135,"He is organizing his desk.
+",0.5
+136,"We are having a potluck dinner.
+",0.5
+137,"She enjoys going to the spa.
+",0.5
+138,"The walls need painting.
+",0.5
+139,"He is practicing carpentry.
+",0.5
+140,"We are making tacos.
+",0.5
+141,"She likes to visit historical sites.
+",0.5
+142,"He is cleaning the attic.
+",0.5
+143,"We are going to the theater.
+",0.5
+144,"She enjoys going to the gym.
+",0.5
+145,"The porch needs repairing.
+",0.5
+146,"He is practicing magic tricks.
+",0.5
+147,"We are making lasagna.
+",0.5
+148,"She likes to visit theme parks.
+",0.5
+149,"He is cleaning the yard.
+",0.5
+150,"We are going to a wine tasting.
+",0.5
+151,"She enjoys going to the library.
+",0.5
+152,"The ceiling needs painting.
+",0.5
+153,"He is practicing public speaking.
+",0.5
+154,"We are making cookies.
+",0.5
+155,"She likes to visit flea markets.
+",0.5
+156,"He is organizing the garage.
+",0.5
+157,"We are going to a play.
+",0.5
+158,"She enjoys going to dance classes.
+",0.5
+159,"The roof needs replacing.
+",0.5
+160,"He is practicing the saxophone.
+",0.5
+161,"We are making stew.
+",0.5
+162,"She likes to visit the mountains.
+",0.5
+163,"He is cleaning the basement.
+",0.5
+164,"We are going to a lecture.
+",0.5
+165,"She enjoys going to yoga classes.
+",0.5
+166,"The windows need replacing.
+",0.5
+167,"He is practicing the trumpet.
+",0.5
+168,"We are making chili.
+",0.5
+169,"She likes to visit national parks.
+",0.5
+170,"He is organizing his tools.
+",0.5
+171,"We are going to a museum.
+",0.5
+172,"She enjoys going to pottery classes.
+",0.5
+173,"The fence needs mending.
+",0.5
+174,"He is practicing meditation.
+",0.5
+175,"We are making sandwiches.
+",0.5
+176,"She likes to visit art galleries.
+",0.5
+177,"He is cleaning the pool.
+",0.5
+178,"We are going to a book reading.
+",0.5
+179,"She enjoys going to music festivals.
+",0.5
+180,"The garden needs weeding.
+",0.5
+181,"He is practicing tai chi.
+",0.5
+182,"We are making salad.
+",0.5
+183,"She likes to visit the countryside.
+",0.5
+184,"He is organizing the attic.
+",0.5
+185,"We are going to a science fair.
+",0.5
+186,"She enjoys going to cooking classes.
+",0.5
+187,"The garage needs organizing.
+",0.5
+188,"He is practicing calligraphy.
+",0.5
+189,"We are making quiche.
+",0.5
+190,"She likes to visit amusement parks.
+",0.5
+191,"He is cleaning the oven.
+",0.5
+192,"We are going to a film festival.
+",0.5
+193,"She enjoys going to knitting classes.
+",0.5
+194,"The gutters need cleaning.
+",0.5
+195,"He is practicing drawing.
+",0.5
+196,"We are making sushi.
+",0.5
+197,"She likes to visit the city.
+",0.5
+198,"He is organizing his bookshelf.
+",0.5
+199,"We are going to a sports game.
+",0.5
+200,"She enjoys going to painting classes.
+",0.5
+201,"The driveway needs sealing.
+",0.5
+202,"He is practicing writing.
+",0.5
+203,"We are making risotto.
+",0.5
+204,"She likes to visit the forest.
+",0.5
+205,"He is cleaning the fridge.
+",0.5
+206,"We are going to a comedy show.
+",0.5
+207,"She enjoys going to photography classes.
+",0.5
+208,"The porch needs staining.
+",0.5
+209,"He is practicing yoga.
+",0.5
+210,"We are making curry.
+",0.5
+211,"She likes to visit the lake.
+",0.5
+212,"He is organizing his closet.
+",0.5
+213,"We are going to a dance performance.
+",0.5
+214,"She enjoys going to sculpting classes.
+",0.5
+215,"The fence needs painting.
+",0.5
+216,"He is practicing piano.
+",0.5
+217,"We are making stir-fry.
+",0.5
+218,"She likes to visit vineyards.
+",0.5
+219,"He is cleaning the garage.
+",0.5
+220,"We are going to a poetry reading.
+",0.5
+221,"She enjoys going to drawing classes.
+",0.5
+222,"The lawn needs fertilizing.
+",0.5
+223,"He is practicing coding.
+",0.5
+224,"We are making waffles.
+",0.5
+225,"She likes to visit the desert.
+",0.5
+226,"He is organizing the shed.
+",0.5
+227,"We are going to a botanical garden.
+",0.5
+228,"She enjoys going to fitness classes.
+",0.5
+229,"The deck needs staining.
+",0.5
+230,"He is practicing running.
+",0.5
+231,"We are making soup.
+",0.5
+232,"She likes to visit the seaside.
+",0.5
+233,"He is cleaning the chimney.
+",0.5
+234,"We are going to a history lecture.
+",0.5
+235,"She enjoys going to swimming classes.
+",0.5
+236,"The siding needs power washing.
+",0.5
+237,"He is practicing guitar.
+",0.5
+238,"We are making kebabs.
+",0.5
+239,"She likes to visit the wetlands.
+",0.5
+240,"He is organizing his papers.
+",0.5
+241,We are going to a craft fair.,0.5

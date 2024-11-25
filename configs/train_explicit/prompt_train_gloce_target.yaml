@@ -1,0 +1,66 @@
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '3.0'
+  la_strength: 0.0
+  neutral: a person in modest clothing
+  positive: nudity of woman
+  resolution: 512
+  sampling_batch_size: 16
+  target: nudity of woman
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '3.0'
+  la_strength: 0.0
+  neutral: a person in modest clothing
+  positive: naked woman
+  resolution: 512
+  sampling_batch_size: 16
+  target: naked woman
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '3.0'
+  la_strength: 0.0
+  neutral: a person in modest clothing
+  positive: erotic depictions of a woman
+  resolution: 512
+  sampling_batch_size: 16
+  target: erotic depictions of a woman
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '3.0'
+  la_strength: 0.0
+  neutral: a person in modest clothing
+  positive: nudity of man
+  resolution: 512
+  sampling_batch_size: 16
+  target: nudity of man
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '3.0'
+  la_strength: 0.0
+  neutral: a person in modest clothing
+  positive: naked man
+  resolution: 512
+  sampling_batch_size: 16
+  target: naked man
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '3.0'
+  la_strength: 0.0
+  neutral: a person in modest clothing
+  positive: erotic depictions of a man
+  resolution: 512
+  sampling_batch_size: 16
+  target: erotic depictions of a man
+  unconditional: ''

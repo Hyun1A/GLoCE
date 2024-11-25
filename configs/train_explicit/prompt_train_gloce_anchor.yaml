@@ -1,0 +1,22 @@
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '3.0'
+  la_strength: 0.0
+  neutral: a person in modest clothing
+  positive: a man in modest clothing
+  resolution: 512
+  sampling_batch_size: 16
+  target: a man in modest clothing
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '3.0'
+  la_strength: 0.0
+  neutral: a person in modest clothing
+  positive: a woman in modest clothing
+  resolution: 512
+  sampling_batch_size: 16
+  target: a woman in modest clothing
+  unconditional: ''

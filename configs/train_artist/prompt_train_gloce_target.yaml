@@ -1,0 +1,1111 @@
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: briton rivière
+  resolution: 512
+  sampling_batch_size: 16
+  target: briton rivière
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: brooke didonato
+  resolution: 512
+  sampling_batch_size: 16
+  target: brooke didonato
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: brooke shaden
+  resolution: 512
+  sampling_batch_size: 16
+  target: brooke shaden
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: brothers grimm
+  resolution: 512
+  sampling_batch_size: 16
+  target: brothers grimm
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: brothers hildebrandt
+  resolution: 512
+  sampling_batch_size: 16
+  target: brothers hildebrandt
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: bruce munro
+  resolution: 512
+  sampling_batch_size: 16
+  target: bruce munro
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: bruce nauman
+  resolution: 512
+  sampling_batch_size: 16
+  target: bruce nauman
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: bruce pennington
+  resolution: 512
+  sampling_batch_size: 16
+  target: bruce pennington
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: bruce timm
+  resolution: 512
+  sampling_batch_size: 16
+  target: bruce timm
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: bruno catalano
+  resolution: 512
+  sampling_batch_size: 16
+  target: bruno catalano
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: bruno munari
+  resolution: 512
+  sampling_batch_size: 16
+  target: bruno munari
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: bruno walpoth
+  resolution: 512
+  sampling_batch_size: 16
+  target: bruno walpoth
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: bryan hitch
+  resolution: 512
+  sampling_batch_size: 16
+  target: bryan hitch
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: butcher billy
+  resolution: 512
+  sampling_batch_size: 16
+  target: butcher billy
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: c. r. w. nevinson
+  resolution: 512
+  sampling_batch_size: 16
+  target: c. r. w. nevinson
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: cagnaccio di san pietro
+  resolution: 512
+  sampling_batch_size: 16
+  target: cagnaccio di san pietro
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: camille corot
+  resolution: 512
+  sampling_batch_size: 16
+  target: camille corot
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: camille pissarro
+  resolution: 512
+  sampling_batch_size: 16
+  target: camille pissarro
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: camille walala
+  resolution: 512
+  sampling_batch_size: 16
+  target: camille walala
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: canaletto
+  resolution: 512
+  sampling_batch_size: 16
+  target: canaletto
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: candido portinari
+  resolution: 512
+  sampling_batch_size: 16
+  target: candido portinari
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: carel willink
+  resolution: 512
+  sampling_batch_size: 16
+  target: carel willink
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: carl barks
+  resolution: 512
+  sampling_batch_size: 16
+  target: carl barks
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: carl gustav carus
+  resolution: 512
+  sampling_batch_size: 16
+  target: carl gustav carus
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: carl holsoe
+  resolution: 512
+  sampling_batch_size: 16
+  target: carl holsoe
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: carl larsson
+  resolution: 512
+  sampling_batch_size: 16
+  target: carl larsson
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: carl spitzweg
+  resolution: 512
+  sampling_batch_size: 16
+  target: carl spitzweg
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: carlo crivelli
+  resolution: 512
+  sampling_batch_size: 16
+  target: carlo crivelli
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: carlos schwabe
+  resolution: 512
+  sampling_batch_size: 16
+  target: carlos schwabe
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: carmen saldana
+  resolution: 512
+  sampling_batch_size: 16
+  target: carmen saldana
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: carne griffiths
+  resolution: 512
+  sampling_batch_size: 16
+  target: carne griffiths
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: casey weldon
+  resolution: 512
+  sampling_batch_size: 16
+  target: casey weldon
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: caspar david friedrich
+  resolution: 512
+  sampling_batch_size: 16
+  target: caspar david friedrich
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: cassius marcellus coolidge
+  resolution: 512
+  sampling_batch_size: 16
+  target: cassius marcellus coolidge
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: catrin welz stein
+  resolution: 512
+  sampling_batch_size: 16
+  target: catrin welz stein
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: charles vess
+  resolution: 512
+  sampling_batch_size: 16
+  target: charles vess
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: charles francois daubigny
+  resolution: 512
+  sampling_batch_size: 16
+  target: charles francois daubigny
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: charlie bowater
+  resolution: 512
+  sampling_batch_size: 16
+  target: charlie bowater
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: charline von heyl
+  resolution: 512
+  sampling_batch_size: 16
+  target: charline von heyl
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: chaïm soutine
+  resolution: 512
+  sampling_batch_size: 16
+  target: chaïm soutine
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: chen zhen
+  resolution: 512
+  sampling_batch_size: 16
+  target: chen zhen
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: chesley bonestell
+  resolution: 512
+  sampling_batch_size: 16
+  target: chesley bonestell
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: chiharu shiota
+  resolution: 512
+  sampling_batch_size: 16
+  target: chiharu shiota
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: ching yeh
+  resolution: 512
+  sampling_batch_size: 16
+  target: ching yeh
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: chip zdarsky
+  resolution: 512
+  sampling_batch_size: 16
+  target: chip zdarsky
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: chris claremont
+  resolution: 512
+  sampling_batch_size: 16
+  target: chris claremont
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: chris cunningham
+  resolution: 512
+  sampling_batch_size: 16
+  target: chris cunningham
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: chris foss
+  resolution: 512
+  sampling_batch_size: 16
+  target: chris foss
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: chris leib
+  resolution: 512
+  sampling_batch_size: 16
+  target: chris leib
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: chris moore
+  resolution: 512
+  sampling_batch_size: 16
+  target: chris moore
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: chris ofili
+  resolution: 512
+  sampling_batch_size: 16
+  target: chris ofili
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: chris saunders
+  resolution: 512
+  sampling_batch_size: 16
+  target: chris saunders
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: chris turnham
+  resolution: 512
+  sampling_batch_size: 16
+  target: chris turnham
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: chris uminga
+  resolution: 512
+  sampling_batch_size: 16
+  target: chris uminga
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: chris van allsburg
+  resolution: 512
+  sampling_batch_size: 16
+  target: chris van allsburg
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.2
+  neutral: real photograph
+  positive: chris ware
+  resolution: 512
+  sampling_batch_size: 16
+  target: chris ware
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: christian dimitrov
+  resolution: 512
+  sampling_batch_size: 16
+  target: christian dimitrov
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: christian grajewski
+  resolution: 512
+  sampling_batch_size: 16
+  target: christian grajewski
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: christophe vacher
+  resolution: 512
+  sampling_batch_size: 16
+  target: christophe vacher
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: christopher balaskas
+  resolution: 512
+  sampling_batch_size: 16
+  target: christopher balaskas
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: christopher jin baron
+  resolution: 512
+  sampling_batch_size: 16
+  target: christopher jin baron
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: chuck close
+  resolution: 512
+  sampling_batch_size: 16
+  target: chuck close
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: cicely mary barker
+  resolution: 512
+  sampling_batch_size: 16
+  target: cicely mary barker
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: cindy sherman
+  resolution: 512
+  sampling_batch_size: 16
+  target: cindy sherman
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: clara miller burd
+  resolution: 512
+  sampling_batch_size: 16
+  target: clara miller burd
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: clara peeters
+  resolution: 512
+  sampling_batch_size: 16
+  target: clara peeters
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: clarence holbrook crealistic photoer
+  resolution: 512
+  sampling_batch_size: 16
+  target: clarence holbrook crealistic photoer
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: claude cahun
+  resolution: 512
+  sampling_batch_size: 16
+  target: claude cahun
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: claude monet
+  resolution: 512
+  sampling_batch_size: 16
+  target: claude monet
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: clemens ascher
+  resolution: 512
+  sampling_batch_size: 16
+  target: clemens ascher
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: brent heighton
+  resolution: 512
+  sampling_batch_size: 16
+  target: brent heighton
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: brett weston
+  resolution: 512
+  sampling_batch_size: 16
+  target: brett weston
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: brett whiteley
+  resolution: 512
+  sampling_batch_size: 16
+  target: brett whiteley
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: brian bolland
+  resolution: 512
+  sampling_batch_size: 16
+  target: brian bolland
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: brian despain
+  resolution: 512
+  sampling_batch_size: 16
+  target: brian despain
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: brian froud
+  resolution: 512
+  sampling_batch_size: 16
+  target: brian froud
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: brian k. vaughan
+  resolution: 512
+  sampling_batch_size: 16
+  target: brian k. vaughan
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: brian kesinger
+  resolution: 512
+  sampling_batch_size: 16
+  target: brian kesinger
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: brian mashburn
+  resolution: 512
+  sampling_batch_size: 16
+  target: brian mashburn
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: brian oldham
+  resolution: 512
+  sampling_batch_size: 16
+  target: brian oldham
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: brian stelfreeze
+  resolution: 512
+  sampling_batch_size: 16
+  target: brian stelfreeze
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: brian sum
+  resolution: 512
+  sampling_batch_size: 16
+  target: brian sum
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: briana mora
+  resolution: 512
+  sampling_batch_size: 16
+  target: briana mora
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: brice marden
+  resolution: 512
+  sampling_batch_size: 16
+  target: brice marden
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: bridget bate tichenor
+  resolution: 512
+  sampling_batch_size: 16
+  target: bridget bate tichenor
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: cedric peyravernay
+  resolution: 512
+  sampling_batch_size: 16
+  target: cedric peyravernay
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: chad knight
+  resolution: 512
+  sampling_batch_size: 16
+  target: chad knight
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: chantal joffe
+  resolution: 512
+  sampling_batch_size: 16
+  target: chantal joffe
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: charles addams
+  resolution: 512
+  sampling_batch_size: 16
+  target: charles addams
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: charles angrand
+  resolution: 512
+  sampling_batch_size: 16
+  target: charles angrand
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: charles blackman
+  resolution: 512
+  sampling_batch_size: 16
+  target: charles blackman
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: charles camoin
+  resolution: 512
+  sampling_batch_size: 16
+  target: charles camoin
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: charles dana gibson
+  resolution: 512
+  sampling_batch_size: 16
+  target: charles dana gibson
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: charles e. burchfield
+  resolution: 512
+  sampling_batch_size: 16
+  target: charles e. burchfield
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: charles gwathmey
+  resolution: 512
+  sampling_batch_size: 16
+  target: charles gwathmey
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: charles le brun
+  resolution: 512
+  sampling_batch_size: 16
+  target: charles le brun
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: charles liu
+  resolution: 512
+  sampling_batch_size: 16
+  target: charles liu
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: charles schridde
+  resolution: 512
+  sampling_batch_size: 16
+  target: charles schridde
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: charles schulz
+  resolution: 512
+  sampling_batch_size: 16
+  target: charles schulz
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: charles spencelayh
+  resolution: 512
+  sampling_batch_size: 16
+  target: charles spencelayh
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.5'
+  la_strength: 0.0
+  neutral: real photograph
+  positive: vincent van gogh
+  resolution: 512
+  sampling_batch_size: 16
+  target: vincent van gogh
+  unconditional: ''

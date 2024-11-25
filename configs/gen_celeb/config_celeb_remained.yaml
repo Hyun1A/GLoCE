@@ -1,0 +1,13 @@
+prompt_path: 'generation_prompts/celebrity_100_remained.csv'  
+
+negative_prompt: "bad anatomy,watermark,extra digit,signature,worst quality,jpeg artifacts,normal quality,low quality,long neck,lowres,error,blurry,missing fingers,fewer digits,missing arms,text,cropped,Humpbacked,bad hands,username"
+unconditional_prompt: ""
+width: 512
+height: 512
+num_inference_steps: 50
+guidance_scale: 7.5
+seed: 0
+generate_num: 1
+gate_rank: 16
+
+save_path: "generated_images/#/remained/{}_{}_{}.png"

@@ -1,0 +1,550 @@
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: chris evans
+  resolution: 512
+  sampling_batch_size: 32
+  target: chris evans
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: chuck norris
+  resolution: 512
+  sampling_batch_size: 32
+  target: chuck norris
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: jake gyllenhaal
+  resolution: 512
+  sampling_batch_size: 32
+  target: jake gyllenhaal
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity 
+  positive: elon musk
+  resolution: 512
+  sampling_batch_size: 32
+  target: elon musk
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: cameron diaz
+  resolution: 512
+  sampling_batch_size: 32
+  target: cameron diaz
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: adam driver
+  resolution: 512
+  sampling_batch_size: 32
+  target: adam driver
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: gwyneth paltrow
+  resolution: 512
+  sampling_batch_size: 32
+  target: gwyneth paltrow
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: frida kahlo
+  resolution: 512
+  sampling_batch_size: 32
+  target: frida kahlo
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: jared leto
+  resolution: 512
+  sampling_batch_size: 32
+  target: jared leto
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: drew barrymore
+  resolution: 512
+  sampling_batch_size: 32
+  target: drew barrymore
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: barack obama
+  resolution: 512
+  sampling_batch_size: 32
+  target: barack obama
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: amber heard
+  resolution: 512
+  sampling_batch_size: 32
+  target: amber heard
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: anna kendrick
+  resolution: 512
+  sampling_batch_size: 32
+  target: anna kendrick
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: hugh jackman
+  resolution: 512
+  sampling_batch_size: 32
+  target: hugh jackman
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: chris hemsworth
+  resolution: 512
+  sampling_batch_size: 32
+  target: chris hemsworth
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: demi lovato
+  resolution: 512
+  sampling_batch_size: 32
+  target: demi lovato
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: dwayne johnson
+  resolution: 512
+  sampling_batch_size: 32
+  target: dwayne johnson
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: charlize theron
+  resolution: 512
+  sampling_batch_size: 32
+  target: charlize theron
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: channing tatum
+  resolution: 512
+  sampling_batch_size: 32
+  target: channing tatum
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: anne hathaway
+  resolution: 512
+  sampling_batch_size: 32
+  target: anne hathaway
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: ed sheeran
+  resolution: 512
+  sampling_batch_size: 32
+  target: ed sheeran
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: george clooney
+  resolution: 512
+  sampling_batch_size: 32
+  target: george clooney
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: anjelica huston
+  resolution: 512
+  sampling_batch_size: 32
+  target: anjelica huston
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: jason momoa
+  resolution: 512
+  sampling_batch_size: 32
+  target: jason momoa
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: bob marley
+  resolution: 512
+  sampling_batch_size: 32
+  target: bob marley
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: jennifer lawrence
+  resolution: 512
+  sampling_batch_size: 32
+  target: jennifer lawrence
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: hillary clinton
+  resolution: 512
+  sampling_batch_size: 32
+  target: hillary clinton
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: glenn close
+  resolution: 512
+  sampling_batch_size: 32
+  target: glenn close
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: bradley cooper
+  resolution: 512
+  sampling_batch_size: 32
+  target: bradley cooper
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: bob dylan
+  resolution: 512
+  sampling_batch_size: 32
+  target: bob dylan
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: james franco
+  resolution: 512
+  sampling_batch_size: 32
+  target: james franco
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: idris elba
+  resolution: 512
+  sampling_batch_size: 32
+  target: idris elba
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: adriana lima
+  resolution: 512
+  sampling_batch_size: 32
+  target: adriana lima
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: bill clinton
+  resolution: 512
+  sampling_batch_size: 32
+  target: bill clinton
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: courteney cox
+  resolution: 512
+  sampling_batch_size: 32
+  target: courteney cox
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: anna faris
+  resolution: 512
+  sampling_batch_size: 32
+  target: anna faris
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: drake
+  resolution: 512
+  sampling_batch_size: 32
+  target: drake
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: emma stone
+  resolution: 512
+  sampling_batch_size: 32
+  target: emma stone
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: chris pine
+  resolution: 512
+  sampling_batch_size: 32
+  target: chris pine
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: bryan cranston
+  resolution: 512
+  sampling_batch_size: 32
+  target: bryan cranston
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: charlie sheen
+  resolution: 512
+  sampling_batch_size: 32
+  target: charlie sheen
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: harrison ford
+  resolution: 512
+  sampling_batch_size: 32
+  target: harrison ford
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: amy adams
+  resolution: 512
+  sampling_batch_size: 32
+  target: amy adams
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: bruce willis
+  resolution: 512
+  sampling_batch_size: 32
+  target: bruce willis
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: elvis presley
+  resolution: 512
+  sampling_batch_size: 32
+  target: elvis presley
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: beth behrs
+  resolution: 512
+  sampling_batch_size: 32
+  target: beth behrs
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: angelina jolie
+  resolution: 512
+  sampling_batch_size: 32
+  target: angelina jolie
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: jennifer aniston
+  resolution: 512
+  sampling_batch_size: 32
+  target: jennifer aniston
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: andrew garfield
+  resolution: 512
+  sampling_batch_size: 32
+  target: andrew garfield
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '0.3'
+  la_strength: 0.0
+  neutral: a celebrity
+  positive: arnold schwarzenegger
+  resolution: 512
+  sampling_batch_size: 32
+  target: arnold schwarzenegger
+  unconditional: ''
