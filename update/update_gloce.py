@@ -491,20 +491,17 @@ def train(
 
         ########### Determine parameters in logistic function ############
 
-        x_center = importance_anc_stack.mean() + args.thresh*importance_anc_stack.std()     
-        tol1 = 0.1*args.thresh*importance_anc_stack.std()  
+        tol1 = args.thresh
 
-        x_left = x_center - tol1
-        x_right = x_center + tol1
+        x_center = importance_anc_stack.mean() + tol1*importance_anc_stack.std()     
+        tol2 = 0.001*tol1
 
-        c_left = torch.tensor([0.01]).to(DEVICE_CUDA)
         c_right = torch.tensor([0.99]).to(DEVICE_CUDA)
-        
-        C_left = torch.log(1/(1/c_left - 1))
         C_right = torch.log(1/(1/c_right - 1))
 
-        imp_center = ( (C_left/C_right) * x_right - x_left ) / ( (C_left/C_right) - 1 )
-        imp_slope = C_left * (1/(x_left-imp_center))
+        imp_center = x_center
+        imp_slope = C_right/tol2
+
 
         print(f"{importance_anc_stack.max().item():10.5f}, {imp_center.item():10.5f}, {importance_tgt_stack.min().item():10.5f}, {importance_tgt_stack.max().item():10.5f}")
         ########### Determine parameters in logistic function ############
