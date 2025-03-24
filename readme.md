@@ -3,6 +3,7 @@
 <!-- </p> -->
 
 ## TODO
+- [ ] Detailed explanation of GLoCE in readme
 - [ ] Code for Evaluation
 - [ ] Generation with Stable Diffusion v3
 
@@ -10,7 +11,7 @@
 
 ## Setup for experiments
 
-**OS**: Ubuntu 18.04.5 LTS
+**OS**: Ubuntu 20.04.5 LTS
 
 **Python**: 3.10.14
 
