@@ -2,6 +2,12 @@
 # Official Implementation of GLoCE 
 <!-- </p> -->
 
+## TODO
+- [ ] Code for Evaluation
+- [ ] Generation with Stable Diffusion v3
+
+
+
 ## Setup for experiments
 
 **OS**: Ubuntu 18.04.5 LTS
