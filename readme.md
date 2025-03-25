@@ -4,7 +4,7 @@
 
 
 ## TODO
-- [ ] Detailed explanation of GLoCE in readme
+- [ ] Detailed explanation of GLoCE in README
 - [ ] Code for Evaluation
 - [ ] Generation with Stable Diffusion v3
 
