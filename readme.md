@@ -1,6 +1,7 @@
-<!--  <p align="center" style="font-size:50px;"> -->
-# Official Implementation of GLoCE 
-<!-- </p> -->
+# Localized Concept Erasure for Text-to-Image Diffusion Models Using Training-Free Gated Low-Rank Adaptation (CVPR 2025)
+
+### ✏️ [Project Page](https://hyun1a.github.io/gloce.io) | 📄 [Paper](https://arxiv.org/abs/2503.12356)
+
 
 ## TODO
 - [ ] Detailed explanation of GLoCE in readme
