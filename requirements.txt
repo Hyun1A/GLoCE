@@ -5,7 +5,6 @@ diffusers==0.18.2
 embedding_reader==1.5.1
 fire==0.5.0
 fsspec==2023.5.0
-library==0.0.0
 lion_pytorch==0.0.6
 matplotlib==3.7.1
 multidict==6.0.4
