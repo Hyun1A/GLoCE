@@ -90,9 +90,7 @@ sh ./shell_scripts/evaluation_metrics/evaluate_clip_score.sh
 
 **Evaluate GIPHY Celebrity Detector**
 
-To use the GIPHY Celebrity Detector, download the official GCD code and create a conda environment for GCD by following the [official guide](https://github.com/Giphy/celeb-detection-oss). 
-(Note that the GCD Python environment is not compatible with the GLoCE environment.) 
-After setting up the GCD environment, please refer to [our installation guide](https://github.com/Hyun1A/GLoCE/tree/main/metrics) in the 'metrics' folder.
+To use the GIPHY Celebrity Detector, download the official GCD code and create a conda environment for giphy by following [our installation guide](https://github.com/Hyun1A/GLoCE/tree/main/metrics) in the 'metrics' folder.
 
 <pre>
 sh ./shell_scripts/evaluation_metrics/evaluate_giphy_score.sh

@@ -1,3 +1,4 @@
+*.pyc
 .cache/
 importance_cache/
 output/

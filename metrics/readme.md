@@ -18,7 +18,7 @@ conda activate giphy
 ```
 
 2. Modify the `setup.py` file and requirements_cpu.txt:
-- replace `x.req` with `x.requirement` (line 37) in the `celeb-detection-oss/setup.py` file
+- replace `x.req` with `x.requirement` (line 37) in the `metrics/giphy/setup.py` file
 - Comment out numpy `numpy==1.15.1` (line 8) and `torch==0.4.1` (last line) in the `requirements_cpu.txt` file
 
 
@@ -42,7 +42,7 @@ python download_model.py
 ```
 
 5. Modify the face detection network configuration
- - Open `celeb-detection-oss/model_training/preprocessors/face_detection/network.py`
+ - Open `metrics/giphy/model_training/preprocessors/face_detection/network.py`
  - Modify to include `allow_pickle=True` (line 88)
  
    ```
