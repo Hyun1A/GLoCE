@@ -15,11 +15,6 @@ Illustration of overall results of concept erasing after erasing 50 celebrities 
 <br>
 
 
-## TODO
-- [ ] Detailed explanation of GLoCE in README
-- [x] Code for Evaluation
-- [ ] Generation with Stable Diffusion v3
-
 
 ## Setup for experiments
 
