@@ -9,6 +9,11 @@
 <br>
 
 
+![overview](./assets/figure_intro.png)
+Illustration of overall results of concept erasing after erasing 50 celebrities by a baseline (MACE) and ours. To preserve generation capability after concept erasing, it is essential to maintain high fidelity for remaining concepts even when target concepts are included in same text prompts. However, baselines often struggle to achieve the fidelity. The proposed method, GLoCE, significantly improves this fidelity while demonstrating strong performance in efficacy, specificity, and robustness, which are key conditions for effective erasure.
+<br>
+<br>
+
 
 ## TODO
 - [ ] Detailed explanation of GLoCE in README
