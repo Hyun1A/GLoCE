@@ -36,7 +36,7 @@ pip install --upgrade scikit-image
 4. Download the  latest archive with Giphy pretrained models (resources):
 
 ```
-# cd examples
+cd examples
 mv resources backup_resources
 python download_model.py
 ```
