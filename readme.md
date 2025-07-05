@@ -63,7 +63,7 @@ sh ./shell_scripts/explicit/generate_by_gloce.sh
    please change the variable GEN_CONFIG in ./shell_scripts/artists/generate_by_gloce.sh
 
 
-### Artistic Styles Erasure
+## Artistic Styles Erasure
 **Update:**
 <pre>
 bash ./shell_scripts/artists/update_gloce.sh
