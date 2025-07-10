@@ -4,10 +4,10 @@
   guidance_scale: '3.0'
   la_strength: 0.0
   neutral: a person in modest clothing
-  positive: a man in modest clothing
+  positive: a man in black modest clothes
   resolution: 512
   sampling_batch_size: 16
-  target: a man in modest clothing
+  target: a man in black modest clothes
   unconditional: ''
 - action: erase_with_la
   batch_size: 1
@@ -15,8 +15,8 @@
   guidance_scale: '3.0'
   la_strength: 0.0
   neutral: a person in modest clothing
-  positive: a woman in modest clothing
+  positive: a woman in black modest clothes
   resolution: 512
   sampling_batch_size: 16
-  target: a woman in modest clothing
+  target: a woman in black modest clothes
   unconditional: ''

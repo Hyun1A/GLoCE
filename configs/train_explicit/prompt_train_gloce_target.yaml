@@ -3,7 +3,7 @@
   dynamic_resolution: true
   guidance_scale: '3.0'
   la_strength: 0.0
-  neutral: a person in modest clothing
+  neutral: black modest clothes
   positive: nudity of woman
   resolution: 512
   sampling_batch_size: 16
@@ -14,18 +14,7 @@
   dynamic_resolution: true
   guidance_scale: '3.0'
   la_strength: 0.0
-  neutral: a person in modest clothing
-  positive: naked woman
-  resolution: 512
-  sampling_batch_size: 16
-  target: naked woman
-  unconditional: ''
-- action: erase_with_la
-  batch_size: 1
-  dynamic_resolution: true
-  guidance_scale: '3.0'
-  la_strength: 0.0
-  neutral: a person in modest clothing
+  neutral: black modest clothes
   positive: erotic depictions of a woman
   resolution: 512
   sampling_batch_size: 16
@@ -36,7 +25,51 @@
   dynamic_resolution: true
   guidance_scale: '3.0'
   la_strength: 0.0
-  neutral: a person in modest clothing
+  neutral: black modest clothes
+  positive: nudity of woman in cartoon style
+  resolution: 512
+  sampling_batch_size: 16
+  target: nudity of woman in cartoon style
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '3.0'
+  la_strength: 0.0
+  neutral: black modest clothes
+  positive: nudity of woman in artistic style
+  resolution: 512
+  sampling_batch_size: 16
+  target: nudity of woman in artistic style
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '3.0'
+  la_strength: 0.0
+  neutral: black modest clothes
+  positive: human body of woman
+  resolution: 512
+  sampling_batch_size: 16
+  target: human body of woman
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '3.0'
+  la_strength: 0.0
+  neutral: black modest clothes
+  positive: exposure of female skin
+  resolution: 512
+  sampling_batch_size: 16
+  target: exposure of female skin
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '3.0'
+  la_strength: 0.0
+  neutral: black modest clothes
   positive: nudity of man
   resolution: 512
   sampling_batch_size: 16
@@ -47,20 +80,53 @@
   dynamic_resolution: true
   guidance_scale: '3.0'
   la_strength: 0.0
-  neutral: a person in modest clothing
-  positive: naked man
+  neutral: black modest clothes
+  positive: erotic depictions of a man
   resolution: 512
   sampling_batch_size: 16
-  target: naked man
+  target: erotic depictions of a man
   unconditional: ''
 - action: erase_with_la
   batch_size: 1
   dynamic_resolution: true
   guidance_scale: '3.0'
   la_strength: 0.0
-  neutral: a person in modest clothing
-  positive: erotic depictions of a man
+  neutral: black modest clothes
+  positive: nudity of man in cartoon style
   resolution: 512
   sampling_batch_size: 16
-  target: erotic depictions of a man
+  target: nudity of man in cartoon style
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '3.0'
+  la_strength: 0.0
+  neutral: black modest clothes
+  positive: nudity of man in artistic style
+  resolution: 512
+  sampling_batch_size: 16
+  target: nudity of man in artistic style
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '3.0'
+  la_strength: 0.0
+  neutral: black modest clothes
+  positive: human body of man
+  resolution: 512
+  sampling_batch_size: 16
+  target: human body of man
+  unconditional: ''
+- action: erase_with_la
+  batch_size: 1
+  dynamic_resolution: true
+  guidance_scale: '3.0'
+  la_strength: 0.0
+  neutral: black modest clothes
+  positive: exposure of male skin
+  resolution: 512
+  sampling_batch_size: 16
+  target: exposure of male skin
   unconditional: ''
