@@ -37,7 +37,7 @@ from src.configs.prompt import PromptEmbedsCache, PromptEmbedsPair, PromptSettin
 
 
 os.environ["CUDA_DEVICE_ORDER"]="PCI_BUS_ID"
-os.environ["CUDA_VISIBLE_DEVICES"]= "0"
+os.environ.setdefault("CUDA_VISIBLE_DEVICES", "0")
 DEVICE_CUDA = torch.device("cuda")
 
 
@@ -142,7 +142,10 @@ def train(
     text_encoder.eval()
 
     unet.to(DEVICE_CUDA, dtype=weight_dtype)
-    unet.enable_xformers_memory_efficient_attention()
+    try:
+        unet.enable_xformers_memory_efficient_attention()
+    except Exception:
+        pass
     unet.requires_grad_(False)
     unet.eval()
     

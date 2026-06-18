@@ -72,7 +72,10 @@ def infer_with_gloce(
     text_encoder.eval()
 
     unet.to(device, dtype=weight_dtype)
-    unet.enable_xformers_memory_efficient_attention()
+    try:
+        unet.enable_xformers_memory_efficient_attention()
+    except Exception:
+        pass
     unet.requires_grad_(False)
     unet.eval()
 
