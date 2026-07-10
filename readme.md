@@ -16,7 +16,12 @@ Illustration of overall results of concept erasing after erasing 50 celebrities 
 
 
 
-## Setup for experiments
+> This repository provides GLoCE experiments for both **Stable Diffusion 1.4** and
+> **Stable Diffusion 3**. The sections below describe the Stable Diffusion 1.4 experiments;
+> for Stable Diffusion 3, see [Running Experiments with Stable Diffusion 3](#running-experiments-with-stable-diffusion-3)
+> and [readme_sd3.md](./readme_sd3.md).
+
+## Setup for experiments (Stable Diffusion 1.4)
 
 **OS**: Ubuntu 20.04.5 LTS
 
@@ -31,7 +36,7 @@ Please install packages in requirements.txt
 pip install -r requirements.txt
 </pre>
 
-## Running Experiments
+## Running Experiments with Stable Diffusion 1.4
 ### Celebrities Erasure
 **Update:**
 <pre>
@@ -48,7 +53,7 @@ bash ./shell_scripts/celebs/generate_by_gloce.sh
 
 
 
-## Explicit Contents Erasure
+### Explicit Contents Erasure
 **Update:**
 <pre>
 sh ./shell_scripts/explicit/update_gloce.sh
@@ -63,7 +68,7 @@ sh ./shell_scripts/explicit/generate_by_gloce.sh
    please change the variable GEN_CONFIG in ./shell_scripts/artists/generate_by_gloce.sh
 
 
-## Artistic Styles Erasure
+### Artistic Styles Erasure
 **Update:**
 <pre>
 bash ./shell_scripts/artists/update_gloce.sh
@@ -79,16 +84,16 @@ bash ./shell_scripts/artists/generate_by_gloce.sh
 
 
 
-## Stable Diffusion 3 (MMDiT) Support
+## Running Experiments with Stable Diffusion 3
 
 This codebase also supports GLoCE on Stable Diffusion 3
 (`stabilityai/stable-diffusion-3-medium-diffusers`), reproducing the localized celebrity
 erasure results of Appendix D.3. All SD3-specific code carries the `_sd3` suffix
 (`update/update_gloce_sd3.py`, `generate/generate_by_gloce_sd3.py`, `src/models/gloce_sd3.py`,
-`src/engine/{nice_util_sd3,train_util_sd3,gloce_register_buffer_sd3}.py`); the SD v1.4 code
-above is unaffected.
+`src/engine/{nice_util_sd3,train_util_sd3,gloce_register_buffer_sd3}.py`); the
+Stable Diffusion 1.4 code above is unaffected.
 
-In SD3 there is no cross-attention, so GLoCE is applied to the text-token half
+In Stable Diffusion 3 there is no cross-attention, so GLoCE is applied to the text-token half
 (`encoder_hidden_states`) of the joint residual stream at the output of every
 `JointTransformerBlock` with `context_pre_only == False` (blocks 0–22) — the SD3 analog of
 the `attn2.to_out.0` insertion point in the SD-UNet. See [readme_sd3.md](./readme_sd3.md)

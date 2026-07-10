@@ -1,4 +1,4 @@
-# GLoCE on Stable Diffusion 3 (DiT / MMDiT)
+# GLoCE on Stable Diffusion 3
 
 This document describes the SD3 implementation of GLoCE, which reproduces the localized
 celebrity erasure results reported in Appendix D.3 of the paper
@@ -52,11 +52,11 @@ python generate/generate_by_gloce_sd3.py \
 # base SD3 for comparison: same command without --model_paths
 ```
 
-## How GLoCE is applied to the MMDiT architecture
+## How GLoCE is applied to the Stable Diffusion 3 architecture
 
-**1. Which DiT / MMDiT layers are selected for GLoCE module insertion?**
+**1. Which transformer layers are selected for GLoCE module insertion?**
 GLoCE modules are attached to every `JointTransformerBlock` of `SD3Transformer2DModel`
-whose `context_pre_only == False` (blocks 0–22 of the 24-block MMDiT in SD3-medium).
+whose `context_pre_only == False` (blocks 0–22 of the 24 transformer blocks in SD3-medium).
 See `find_module_name = "sd3_block_context"` in `src/engine/nice_util_sd3.py::get_modules_list`.
 
 **2. Is the GLoCE gate applied to image tokens, text tokens, or joint hidden states?**
@@ -64,7 +64,7 @@ To the **text-token half of the joint residual stream**: GLoCE wraps each block'
 and modifies the returned `encoder_hidden_states` (text tokens) with
 `x' = (1-s(x))·x + s(x)·η(µ_map + V̂map V̂mapᵀ(I − V̂tar V̂tarᵀ)(x − µ_tar))` (paper Eq. 5–8).
 The gate `s(x)` is evaluated per text token. Modifying the text residual stream is essential
-for the DiT architecture: the target-concept information enters the image tokens only through
+for the SD3 architecture: the target-concept information enters the image tokens only through
 joint attention from the text stream, and once erased from the text stream it cannot re-enter.
 (Image-side variants — `attn.to_out.0` outputs or the image hidden states — leave the identity
 information in the residual stream and do NOT erase the concept; we verified this empirically.)
