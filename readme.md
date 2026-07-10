@@ -16,7 +16,12 @@ Illustration of overall results of concept erasing after erasing 50 celebrities 
 
 
 
-## Setup for experiments
+> This repository provides GLoCE experiments for both **Stable Diffusion 1.4** and
+> **Stable Diffusion 3**. The sections below describe the Stable Diffusion 1.4 experiments;
+> for Stable Diffusion 3, see [Running Experiments with Stable Diffusion 3](#running-experiments-with-stable-diffusion-3)
+> and [readme_sd3.md](./readme_sd3.md).
+
+## Setup for experiments (Stable Diffusion 1.4)
 
 **OS**: Ubuntu 20.04.5 LTS
 
@@ -31,7 +36,7 @@ Please install packages in requirements.txt
 pip install -r requirements.txt
 </pre>
 
-## Running Experiments
+## Running Experiments with Stable Diffusion 1.4
 ### Celebrities Erasure
 **Update:**
 <pre>
@@ -48,7 +53,7 @@ bash ./shell_scripts/celebs/generate_by_gloce.sh
 
 
 
-## Explicit Contents Erasure
+### Explicit Contents Erasure
 **Update:**
 <pre>
 sh ./shell_scripts/explicit/update_gloce.sh
@@ -63,7 +68,7 @@ sh ./shell_scripts/explicit/generate_by_gloce.sh
    please change the variable GEN_CONFIG in ./shell_scripts/artists/generate_by_gloce.sh
 
 
-## Artistic Styles Erasure
+### Artistic Styles Erasure
 **Update:**
 <pre>
 bash ./shell_scripts/artists/update_gloce.sh
@@ -76,6 +81,35 @@ bash ./shell_scripts/artists/generate_by_gloce.sh
 
 - For generation of diverse domains such as celebrites or characters from styles-erased model, 
    please change the variable GEN_CONFIG in ./shell_scripts/artists/generate_by_gloce.sh (config files for different domains are listed)
+
+
+
+## Running Experiments with Stable Diffusion 3
+
+This codebase also supports GLoCE on Stable Diffusion 3.
+
+In Stable Diffusion 3 there is no cross-attention, so GLoCE is applied to the text-token half
+(`encoder_hidden_states`) of the joint residual stream at the output of every
+`JointTransformerBlock` with `context_pre_only == False` (blocks 0–22) — the SD3 analog of
+the `attn2.to_out.0` insertion point in the SD-UNet. See [readme_sd3.md](./readme_sd3.md)
+for details on the layer mapping, gate design, and configuration.
+
+The SD3 pipeline needs a separate environment (newer `diffusers`/`transformers`):
+<pre>
+conda create -n GLoCE_sd3 python=3.10
+conda activate GLoCE_sd3
+pip install -r requirements_sd3.txt
+</pre>
+
+**Update:**
+<pre>
+bash ./shell_scripts/celebs/update_gloce_sd3.sh 1    # 1 = barack obama, 301 = queen elizabeth
+</pre>
+
+**Generation:**
+<pre>
+bash ./shell_scripts/celebs/generate_by_gloce_sd3.sh
+</pre>
 
 
 

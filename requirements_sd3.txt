@@ -1,0 +1,19 @@
+# Requirements for the Stable Diffusion 3 (MMDiT) pipeline of GLoCE
+# (update_gloce_sd3.py / generate_by_gloce_sd3.py)
+# Tested with python 3.10, CUDA 12.1
+torch==2.4.1
+torchvision==0.19.1
+diffusers==0.31.0
+transformers==4.44.2
+tokenizers==0.19.1
+accelerate==0.34.2
+safetensors==0.8.0
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.15.3
+matplotlib==3.10.9
+pillow==12.2.0
+pydantic==2.13.4
+PyYAML==6.0.3
+sentencepiece==0.2.1
+tqdm==4.68.4

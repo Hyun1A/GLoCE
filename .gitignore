@@ -1,5 +1,13 @@
 *.pyc
+__pycache__/
 .cache/
 importance_cache/
 output/
 generated_images/
+debug/
+repro_images/
+*.log
+*.safetensors
+*.pt
+verify_images/
+sampled.png
