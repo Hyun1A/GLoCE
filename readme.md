@@ -86,12 +86,7 @@ bash ./shell_scripts/artists/generate_by_gloce.sh
 
 ## Running Experiments with Stable Diffusion 3
 
-This codebase also supports GLoCE on Stable Diffusion 3
-(`stabilityai/stable-diffusion-3-medium-diffusers`), reproducing the localized celebrity
-erasure results of Appendix D.3. All SD3-specific code carries the `_sd3` suffix
-(`update/update_gloce_sd3.py`, `generate/generate_by_gloce_sd3.py`, `src/models/gloce_sd3.py`,
-`src/engine/{nice_util_sd3,train_util_sd3,gloce_register_buffer_sd3}.py`); the
-Stable Diffusion 1.4 code above is unaffected.
+This codebase also supports GLoCE on Stable Diffusion 3.
 
 In Stable Diffusion 3 there is no cross-attention, so GLoCE is applied to the text-token half
 (`encoder_hidden_states`) of the joint residual stream at the output of every
