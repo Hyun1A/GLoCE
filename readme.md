@@ -79,6 +79,40 @@ bash ./shell_scripts/artists/generate_by_gloce.sh
 
 
 
+## Stable Diffusion 3 (MMDiT) Support
+
+This codebase also supports GLoCE on Stable Diffusion 3
+(`stabilityai/stable-diffusion-3-medium-diffusers`), reproducing the localized celebrity
+erasure results of Appendix D.3. All SD3-specific code carries the `_sd3` suffix
+(`update/update_gloce_sd3.py`, `generate/generate_by_gloce_sd3.py`, `src/models/gloce_sd3.py`,
+`src/engine/{nice_util_sd3,train_util_sd3,gloce_register_buffer_sd3}.py`); the SD v1.4 code
+above is unaffected.
+
+In SD3 there is no cross-attention, so GLoCE is applied to the text-token half
+(`encoder_hidden_states`) of the joint residual stream at the output of every
+`JointTransformerBlock` with `context_pre_only == False` (blocks 0–22) — the SD3 analog of
+the `attn2.to_out.0` insertion point in the SD-UNet. See [readme_sd3.md](./readme_sd3.md)
+for details on the layer mapping, gate design, and configuration.
+
+The SD3 pipeline needs a separate environment (newer `diffusers`/`transformers`):
+<pre>
+conda create -n GLoCE_sd3 python=3.10
+conda activate GLoCE_sd3
+pip install -r requirements_sd3.txt
+</pre>
+
+**Update:**
+<pre>
+bash ./shell_scripts/celebs/update_gloce_sd3.sh 1    # 1 = barack obama, 301 = queen elizabeth
+</pre>
+
+**Generation:**
+<pre>
+bash ./shell_scripts/celebs/generate_by_gloce_sd3.sh
+</pre>
+
+
+
 ## Evaluation Metrics
 
 
